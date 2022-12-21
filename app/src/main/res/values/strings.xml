@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tienda deportiva version 4</string>
+
+    <string name="texto_productos">PRODUCTOS</string>
+    <string name="titulo_balon_2022">Balón mundial 2022</string>
+    <string name="texto_volver">Volver</string>
+    <string name="texto_tienda">Tienda</string>
+    <string name="texto_detalles">Detalles</string>
+    <string name="texto_nombre">Nombre</string>
+    <string name="texto_descripcion">Descripcion</string>
+    <string name="texto_precio">Precio</string>
+    <string name="texto_agregar">Agregar</string>
+    <string name="editText_escribe_el_correo">Escribe el correo</string>
+    <string name="editText_escribe_la_contrase_a">Escribe la contraseña</string>
+    <string name="edittext_escribe_la_contrase_a_nuevamente">Escribe la contraseña nuevamente</string>
+    <string name="text_contrasena_correo_incorrectos">Correo o contraseña incorrectos</string>
+    <string name="texto_todos_los_campos_son_obligatorios">Todos los campos son obligatorios</string>
+    <string name="texto_contrasena_no_coincide">Contraseña no coincide</string>
+    <string name="texto_contrasena_menor_a_6">Debe ingresar 6 o más caracteres en la contraseña</string>
+</resources>
